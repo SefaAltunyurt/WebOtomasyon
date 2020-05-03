@@ -1,6 +1,8 @@
-# WebOtomasyonSelenium
+# WebOtomasyon
 
-### Proje sınıfları: <br> src.test.java.com.sefa.test <br> src.test.java.com.sefa.selenium
+### Proje sınıfları:<br> 
+src.test.java.com.sefa.test <br> 
+src.test.java.com.sefa.selenium
 
  [www.n11.com](https://www.n11.com/) sitesi açılır.<br>
 **- Ana sayfanın açıldığı kontrol edilir. Siteye login olunur.** <br>
